@@ -1,0 +1,19 @@
+License Agreement
+
+SPMF is copyright by Philippe Fournier-Viger and some parts are copyright by contributors.
+
+The code is licensed under the open-source GNU GPL version 3 license. The GPL license provides four freedoms:
+
+Obtain and run the program for any purpose
+Get a copy of the source code
+Modify the source code
+Re-distribute the modified source code
+The only restriction is that if you want to redistribute the source code, you must:
+
+provide access to the source code,
+license derived work under the same GPL v3 license
+Besides, if SPMF is used in a scientific publication, please cite the following publication:
+
+Fournier-Viger, P., Lin, C.W., Gomariz, A., Gueniche, T., Soltani, A., Deng, Z., Lam, H. T. (2016). The SPMF Open-Source Data Mining Library Version 2. Proc. 19th European Conference on Principles of Data Mining and Knowledge Discovery (PKDD 2016) Part III, Springer LNCS 9853,  pp. 36-40.
+
+If you have any questions, please contact Philippe Fournier-Viger.
